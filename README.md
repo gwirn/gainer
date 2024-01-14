@@ -1,4 +1,4 @@
-#**G**it br**A**nch **IN**form**ER**
+**G**it br**A**nch **IN**form**ER**
 
 ![TEST](https://github.com/gwirn/gainer/actions/workflows/build_test.yml/badge.svg)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](/LICENSE.md)
