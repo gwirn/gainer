@@ -20,9 +20,9 @@ in .bashrc or .zshrc in the PS1
 `PS1=$'\w \033[1;31m\]$(/PATH/TO/GAINER) \033[1;34m\] \e[0m '`
 
 ## sample output
-`~/Code/rust_projects/gainer🌿 master`
+`~/Code/rust_projects/gainer🌿 master:`
 ### detached HEAD
-`~/Code/rust_projects/gainer🌿 SHA-1`
+`~/Code/rust_projects/gainer🌿 SHA-1:`
 
  
 ## Description
