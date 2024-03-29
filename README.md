@@ -17,7 +17,7 @@ in .bashrc or .zshrc in the PS1
 `PS1='%~'$'%B%F{166}$(/PATH/TO/GAINER)%f%b %B%F{3} %f%b '`
 
 ## (colored) bash example
-`PS1=$'\w \033[1;31m\]$(/PATH/TO/GAINER) \033[1;34m\] \e[0m '`
+`PS1=$'\w \[\033[1;31m\]$(/PATH/TO/GAINER) \[\e[0m\] '`
 
 ## sample output
 `~/Code/rust_projects/gainer🌿 master:`
